@@ -1,10 +1,10 @@
 # Travel Agency Site
 
-Hi! This is my first programming project, it is developed with the intention to learn and is based on examples on the internet. It has only learning development purposes and no market use.
+Hi! This is my first programming project, it is developed with the intention to learn, and is based on the examples of the Youtube channel "Papo de Dev" by Isadora Stangarlin. It has only learning development purposes and no market use.
 
 The project uses the basics of HTML and CSS.
 
-Nice things that could be learned from this project:
+Some things that could be learned from this project:
 
 -   Flexbox concepts
     -   The basics of flexbox, like: flex-direction, justify-content and align-items
